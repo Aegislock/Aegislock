@@ -1,6 +1,4 @@
-- Hi, I’m @Aegislock.
-
-:)
+import cv2
 
 <!---
 Aegislock/Aegislock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
